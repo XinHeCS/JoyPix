@@ -2,6 +2,8 @@
 
 #include "IApplication.h"
 
+#define DEBUG
+
 namespace JoyPix {
     class BaseApplication : implement IApplication
     {
